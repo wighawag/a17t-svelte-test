@@ -15,5 +15,5 @@
 
   <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">one</button>
 
-  <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">two</button>
+  <button class="button ~positive !normal">two</button>
 </main>
